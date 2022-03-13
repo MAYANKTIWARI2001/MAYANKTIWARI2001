@@ -1,0 +1,16 @@
+	 Welcome KV Retail
+ Bill Number :1193
+ Customer Name :Rahul
+ Phone Number :9039610001
+======================================
+ Product		QTY		Price
+======================================
+ Bath Soap		1		40
+ Wheat		        3		180
+ Cock		        2		120
+--------------------------------------
+ Cosmatic Tax 			Rs. 2.0
+ Grocery Tax 			Rs. 18.0
+ Cold Drink Tax 		Rs. 6.0
+ Total Bill  			Rs. 366.0
+---------------------------------------

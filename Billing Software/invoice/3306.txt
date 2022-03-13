@@ -1,0 +1,16 @@
+	 Welcome KV Retail
+ Bill Number :3306
+ Customer Name :ram
+ Phone Number :23476
+======================================
+ Product		QTY		Price
+======================================
+ Bath Soap		1		40
+ Rice		        1		80
+ Maza		        1		60
+--------------------------------------
+ Cosmatic Tax 			Rs. 2.0
+ Grocery Tax 			Rs. 8.0
+ Cold Drink Tax 		Rs. 3.0
+ Total Bill  			Rs. 193.0
+---------------------------------------

@@ -1,0 +1,16 @@
+	 Welcome KV Retail
+ Bill Number :1651
+ Customer Name :Ravi
+ Phone Number :54872198
+======================================
+ Product		QTY		Price
+======================================
+ Face Cream		1		120
+ Daal   		2		480
+ Thumbs Up		1		45
+--------------------------------------
+ Cosmatic Tax 			Rs. 6.0
+ Grocery Tax 			Rs. 48.0
+ ColdDrink Tax			Rs. 2.25
+ Total Bill  			 Rs. 701.25
+---------------------------------------
